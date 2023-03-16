@@ -20,10 +20,13 @@
 
 <h6>User<h6>
   1.Inputting Medication Information: The user has a role of providing the correct information about the medication they are taking, including the name, dosage,                                            frequency, and time of day it needs to be taken. 
+  
 
   2.Setting Reminders: The user needs to set reminders for when to take their medication, based on the instructions provided by their doctor or pharmacist. They also                         need to adjust the reminders if there are changes in their medication schedule.
+  
 
   3.Updating Medication List: If there are any changes to the user's medication, such as a change in dosage or the addition of a new medication, the user needs to                                  update the app with the new information. This helps the app to provide accurate reminders and avoid any potential medication errors.
+  
 
   4.User can't have access to the reminder set by other user
   <h6>Admin<h6>
