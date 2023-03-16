@@ -6,7 +6,7 @@
 | SEBLEWONGEL TAKELE | UGR/9711/13|
 | SAMUEL ZEBENE      | UGR/2139/13|
 
-<h2>project discription<h2> <h4>A medication reminder app  help users remember to take their medications at the appropriate time. The app allows users to set reminders for their medications, including the dosage, time of day, and frequency. <h4<
+<h2>project discription<h2> A medication reminder app  help users remember to take their medications at the appropriate time. The app allows users to set reminders for their medications, including the dosage, time of day, and frequency. <h4>
 
 <h4>the user should input the medication name, dose, frequency, and any other relevant details about the medication prescribed by the doctor.and then Set the reminder for taking the medication at the prescribed time.based on this the app will provide information about the medications. <h4>
 
