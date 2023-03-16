@@ -13,5 +13,7 @@
 <h4>The app can be customized to suit individual needs, and can be used to manage multiple medications for multiple users. With this medication reminder app, users can improve medication adherence, reduce the risk of missed doses, and better manage their health.<h4>
 
 <h1>business feautures<h1>
-  1. Personalized Reminders: One feature that could make your medicine time reminder app stand out is personalized reminders. Rather than just reminding users to take their medication at the same time every day, the app could learn about each user's individual schedule and preferences. For example, some users may need to take their medication with food, while others may prefer to take it before bedtime. By allowing users to set personalized reminders that take their unique needs into account, your app could help ensure that they never miss a dose.
+  1.<h3> Personalized Reminders:<h3> <h5>the users are allowed  to set personalized reminders that take their unique needs into account, this app help ensure that they never miss a dose.Rather than just reminding users to take their medication at the same time every day, the app will learn about each user's individual schedule and preferences. <h5>
+  2.<h3>Medication information:<h3><h5> the user can fill the information about the medicen being taken,including dosage instructions, side effects, and potential drug interactions.this app will help users By keeping track of the information they provide over time, users could gain valuable insights into how their medication is affecting them.This feature would be helpful for users who are unsure about how to take their medication or who are concerned about potential side effects.<h5>
+
 
