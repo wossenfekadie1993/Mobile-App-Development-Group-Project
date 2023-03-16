@@ -19,10 +19,10 @@
 <h3>authorization feautures<h3> <h5>We will have two roles in our project: user and admin.<h5>
 
 <h6>User<h6>
-  -<h6>The user has a role of providing the correct information about the medication they are taking,  set reminders for when to take their medication and Updating Medication List If there are any changes to the user's medication.
+  <h6>The user has a role of providing the correct information about the medication they are taking,  set reminders for when to take their medication and Updating Medication List If there are any changes to the user's medication.
 <h6>
  
--<h6>
+<h6>
   User can't have access to the reminder set by other user<h6>
   <h6>Admin<h6>
     -Admin has full access to the system users
