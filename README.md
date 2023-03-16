@@ -19,20 +19,19 @@
 <h3>authorization feautures<h3> <h5>We will have two roles in our project: user and admin.<h5>
 
 <h6>User<h6>
-  -Inputting Medication Information: The user has a role of providing the correct information about the medication they are taking, including the name, dosage,                                            frequency, and time of day it needs to be taken. 
+  1.Inputting Medication Information: The user has a role of providing the correct information about the medication they are taking, including the name, dosage,                                            frequency, and time of day it needs to be taken. 
 
-  -Setting Reminders: The user needs to set reminders for when to take their medication, based on the instructions provided by their doctor or pharmacist. They also                         need to adjust the reminders if there are changes in their medication schedule.
+  2.Setting Reminders: The user needs to set reminders for when to take their medication, based on the instructions provided by their doctor or pharmacist. They also                         need to adjust the reminders if there are changes in their medication schedule.
 
-  -Updating Medication List: If there are any changes to the user's medication, such as a change in dosage or the addition of a new medication, the user needs to                                  update the app with the new information. This helps the app to provide accurate reminders and avoid any potential medication errors.
+  3.Updating Medication List: If there are any changes to the user's medication, such as a change in dosage or the addition of a new medication, the user needs to                                  update the app with the new information. This helps the app to provide accurate reminders and avoid any potential medication errors.
 
-  -User can't have access to the reminder set by other user
+  4.User can't have access to the reminder set by other user
   <h6>Admin<h6>
     -Admin has full access to the system users
   
-  
 <h3>authentication feautures<h3>
 
--Both users and Admin need to register and log in to our system to access features that our system provides. and our system performs single factor authentication inorder to validate the users
--users are also able to log out of the system easily.they are also able to edit their accout(change username and password) or delete their account
+<h6>1.Both users and Admin need to register and log in to our system to access features that our system provides. and our system performs single factor authentication inorder to validate the users<h6>
+<h6>2.users are also able to log out of the system easily.they are also able to edit their accout(change username and password) or delete their account<h6>
 
 
