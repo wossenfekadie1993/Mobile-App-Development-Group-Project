@@ -5,6 +5,7 @@
 | WOSSEN FEKADIE     | UGR/1993/13|
 | SEBLEWONGEL TAKELE | UGR/9711/13|
 | SAMUEL ZEBENE      | UGR/2139/13|
+| Lidya Ejigu        | ugr/5038/13|
 
 <h3>project discription<h3> <h4>A medication reminder app  help users remember to take their medications at the appropriate time. The app allows users to set reminders for their medications, including the dosage, time of day, and frequency. <h4>
 
