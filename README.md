@@ -38,21 +38,21 @@
 
 
 # Student Voice
-<h1> project description:<h1>
+<h3> project description:<h3>
 The app is designed to serve as a platform for AAU students to report complaints . while also it is used  for the university to post important announcements.the user will send his complaint with text format and the app will provide the form to be filled. With its user-friendly interface and convenient features, the app aims to streamline the communication process between students and academic institutions, creating a more efficient and effective system for addressing issues and disseminating information.
 
-<h1>business feautures<h1>
+<h3>business feautures<h3>
 
-Users(student) are able to report complaints to the manager. the user(student) reports the complaint by filling the form that includes the required information needed by the university.the user can upload a pdf file  if there is petition.
+<h4>Users(student)<h4> are able to report complaints to the manager. the user(student) reports the complaint by filling the form that includes the required information needed by the university.the user can upload a pdf file  if there is petition.
 
-managers are able to categorize the reported complaint as food issue,gender issue, exam issue and staff issue.and then they catagrized the issue as into pending,ongoing ,and solved complaint. And On the other hand,managers can use the app to post announcements, notifications, and updates about academic programs, events, and other important information.
+<h4>managers<h4> are able to categorize the reported complaint as food issue,gender issue, exam issue and staff issue.and then they catagrized the issue as into pending,ongoing ,and solved complaint. And On the other hand,managers can use the app to post announcements, notifications, and updates about academic programs, events, and other important information.
 
 
 <h1>authorization feautures:<h1>
-      We will have three roles in our project: user(student) , staff and admin.
-User(student) has a role of recording and sending complaint to manager. User can't have access to the reported complaint other that the complaint he/she reported unless he/she is given a role by the admin
-manager has a role of accessing the reported complaint  and posting announcement
-Admin has full access to the system users he also have an authority to register managers as manager after validating whether that manager have specific legal authority
+      <h5>We will have three roles in our project: user(student) , staff and admin.<h5>
+<h6>User(student)<h6> has a role of recording and sending complaint to manager. User can't have access to the reported complaint other that the complaint he/she reported unless he/she is given a role by the admin
+<h6>manager<h6> has a role of accessing the reported complaint  and posting announcement
+<h6>Admin<h6> has full access to the system users he also have an authority to register managers as manager after validating whether that manager have specific legal authority
 
 
 <h1> authentication feautures<h1>
