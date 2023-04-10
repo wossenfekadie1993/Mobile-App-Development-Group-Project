@@ -37,7 +37,7 @@
 
 
 
-# Student Voice
+# Students Voice
 <h3> project description:<h3>
 <h5>The app is designed to serve as a platform for AAU students to report complaints . while also it is used  for the university to post important announcements.the user will send his complaint with text format and the app will provide the form to be filled. With its user-friendly interface and convenient features, the app aims to streamline the communication process between students and academic institutions, creating a more efficient and effective system for addressing issues and disseminating information.<h5>
 
@@ -58,7 +58,7 @@
 <h3> authentication feautures<h3>
  
 <h4>Both users and manager  need to register and log in to our system to access features that our system provides. and our system performs single factor authentication inorder to validate the users
-users are also able to log out of the system easily.they are also able to edit their accout(change username and password) or delete their account<h4>
+users are also able to log out of the system easily.they are also able to edit their accout(change username and password) or delete their account<h4>  
 
 
 
