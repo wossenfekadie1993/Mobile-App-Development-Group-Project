@@ -8,7 +8,6 @@ const auth = require("../middlewares/auth");
 profileRouter.use(express.json())
 profileRouter.use(express.urlencoded({ extended: true }));
 
-
 const storage = multer.diskStorage({
     destination: (req,file,cb)=>{
         cb(null, './uploads');
