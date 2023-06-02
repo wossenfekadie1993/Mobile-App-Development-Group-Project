@@ -12,6 +12,8 @@ announcementRouter.get("/announcements/", auth, async (req, res) => {
   }
 });
 
+
+
 // create a get request to search products and get them
 // /api/products/search/i
 announcementRouter.get("/announcements/search/:name", auth, async (req, res) => {
