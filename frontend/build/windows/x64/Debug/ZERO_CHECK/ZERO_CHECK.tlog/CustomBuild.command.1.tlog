@@ -1,0 +1,10 @@
+^C:\USERS\WONDALEM\DESKTOP\FULLMOBILE\FRONTEND\BUILD\WINDOWS\CMAKEFILES\0E64DF6BC398E4F1EF980001097F136D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Wondalem/Desktop/fullMobile/frontend/windows -BC:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/students_voice.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

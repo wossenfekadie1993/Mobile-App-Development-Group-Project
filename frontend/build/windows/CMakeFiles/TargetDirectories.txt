@@ -1,0 +1,13 @@
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/runner/CMakeFiles/students_voice.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/plugins/flutter_secure_storage_windows/CMakeFiles/flutter_secure_storage_windows_plugin.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/plugins/flutter_secure_storage_windows/CMakeFiles/INSTALL.dir
+C:/Users/Wondalem/Desktop/fullMobile/frontend/build/windows/plugins/flutter_secure_storage_windows/CMakeFiles/ALL_BUILD.dir
